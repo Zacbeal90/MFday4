@@ -1,0 +1,45 @@
+body {
+  background-color: #fff;
+}
+
+.container {
+  background-color: white;
+}
+
+.icon {
+  background-color: black;
+  height: 50px;
+  top:20px;
+}
+
+.body {
+  background-color: black;
+  height: 400px;
+  top: 40px;
+}
+
+.nav {
+  background-color: black;
+  height: 25px;
+  top: 30px
+}
+
+.sub {
+  background-color: black;
+      height: 25px;
+      top: 70px;background-color: black;
+      height: 25px;
+      top: 70px;x;
+}
+
+.tiles1 {
+  background-color: black;
+  height: 125px;
+  top: 100px;
+}
+
+.tiles {
+  background-color: black;
+  height: 125px;
+  top: 110px;
+}
