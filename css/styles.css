@@ -1,0 +1,28 @@
+.jumbotron {
+  text-align: center;
+}
+
+.active {
+  color: #000;
+}
+
+.btn-default {
+  background-color: #000;
+  border-radius: 25px;
+  color: #fff;
+}
+
+.btn-default1 {
+  background-color: #000;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.btn-group {
+  position: fixed;
+  left: 43%;
+}
+
+.thumbnail {
+  text-align: center;
+}
